@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select matches snapshot 1`] = `
+<div
+  className="root"
+>
+  <div
+    className="formControlWrapper"
+  >
+    <select
+      disabled={false}
+      id="test"
+      onBlur={[Function]}
+      onChange={[Function]}
+      required={false}
+      value="test"
+    />
+  </div>
+</div>
+`;

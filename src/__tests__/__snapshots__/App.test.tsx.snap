@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches snapshot 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="root"
+  >
+    <div
+      className="root"
+    >
+      <header
+        className="root"
+      >
+        <div
+          className="wrapper"
+        >
+          <section
+            className="root"
+          >
+            <form
+              action="#"
+              onReset={[Function]}
+              onSubmit={[Function]}
+            >
+              <div
+                className="root"
+              >
+                <div
+                  className="formControlWrapper"
+                >
+                  <input
+                    disabled={false}
+                    id="searchField"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    required={false}
+                    type="search"
+                    value=""
+                  />
+                </div>
+              </div>
+              <div
+                className="root"
+              >
+                <div
+                  className="formControlWrapper"
+                >
+                  <select
+                    disabled={false}
+                    id="searchSort"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    required={false}
+                    value="date"
+                  >
+                    <option
+                      value="date"
+                    >
+                      Sort by Date
+                    </option>
+                    <option
+                      value="relevance"
+                    >
+                      Sort by Relevance
+                    </option>
+                    <option
+                      value="popularity"
+                    >
+                      Sort by Popularity
+                    </option>
+                  </select>
+                </div>
+              </div>
+              <div
+                className="root"
+              >
+                <button
+                  disabled={false}
+                  id="searchButton"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "background": "errorColor",
+                    }
+                  }
+                  type="submit"
+                >
+                  Search
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
+      </header>
+      <main
+        className="root"
+      >
+        <div
+          className="wrapper"
+        />
+      </main>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,60 @@
+{
+    "articles": {
+        "status": "ok",
+        "totalResults": 4,
+        "articles": [
+            {
+                "source": {
+                    "id": "the-next-web",
+                    "name": "The Next Web"
+                },
+                "author": "Urban Mobility Daily",
+                "title": "Shared mobility isn’t about fancy apps, it’s about getting the basics right",
+                "description": "This article was written by Venkatesh Gopal, Business Development and Partnerships Manager, Movmi, on The Urban Mobility Daily, the content site of the Urban Mobility Company, a Paris-based company which is moving the business of mobility forward through phys…",
+                "url": "https://thenextweb.com/shift/2020/11/19/shared-mobility-isnt-about-fancy-apps-syndication/",
+                "urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F11%2F1-copy-3.jpg&signature=dbc8e0a632525f64d53d00af676db318",
+                "publishedAt": "2020-11-19T15:43:43Z",
+                "content": "This article was written by Venkatesh Gopal, Business Development and Partnerships Manager, Movmi, on The Urban Mobility Daily, the content site of the Urban Mobility Company, a Paris-based company w… [+17317 chars]"
+            },
+            {
+                "source": {
+                    "id": "crypto-coins-news",
+                    "name": "Crypto Coins News"
+                },
+                "author": null,
+                "title": "Is Comparing Meghan Markle and Princess Diana Part of the Netflix Plan?",
+                "description": "The comparisons between Meghan Markle and Princess Diana are running rampant. I believe Netflix will look to cash in on this factor.",
+                "url": "https://www.ccn.com/meghan-markle-princess-diana-comparison-netflix-plan/",
+                "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2020/11/Princess-Diana-Meghan-Markle.jpg",
+                "publishedAt": "2020-11-19T10:33:57Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "the-globe-and-mail",
+                    "name": "The Globe And Mail"
+                },
+                "author": "The Associated Press",
+                "title": "UN climate chief says pledges by big polluters boost Paris hopes",
+                "description": "Patricia Espinosa said countries’ willingness to commit to tougher emissions limits shows that curbing global warming remains a political priority",
+                "url": "https://www.theglobeandmail.com/world/article-un-climate-chief-says-pledges-by-big-polluters-boost-paris-hopes/",
+                "urlToImage": "https://www.theglobeandmail.com/resizer/6HUYZ_GkyCpLtfgms1NX6ptyQG8=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/RKXFIJODYVNCJJPS4KGSFKB5E4.jpg",
+                "publishedAt": "2020-11-19T09:53:28Z",
+                "content": "The U.N.s climate chief says deadlines set by some of the worlds top polluters to end greenhouse gas emissions, along with president-elect Joe Bidens pledge to take the United States back into the Pa… [+4015 chars]"
+            },
+            {
+                "source": {
+                    "id": "abc-news",
+                    "name": "ABC News"
+                },
+                "author": "The Associated Press",
+                "title": "American train-attack witness hospitalized in Paris",
+                "description": "",
+                "url": "https://abcnews.go.com/International/wireStory/american-train-attack-witness-hospitalized-paris-74290857",
+                "urlToImage": "https://s.abcnews.com/images/International/WireAP_93ed2910b12f4737a3c4d11f58b58b9d_16x9_992.jpg",
+                "publishedAt": "2020-11-19T09:31:35Z",
+                "content": "PARIS -- An American who had been scheduled to appear as a star witness at the trial in Paris of an Islamic State operative was hospitalized Thursday in the French capital, casting doubt on whether h… [+838 chars]"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+@import './styles/partials/breakpoints';
+@import './styles/partials/variables';
+
+.root {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+
+    label {
+        display: inline-block;
+        margin-bottom: .3em;
+    }
+
+    .formFieldError {
+        margin-top: .2em;
+        color: $error;
+        font-size: .9em;
+    }
+
+    select {
+        width: 100%;
+        padding: .4em .5em .48em .5em;
+        border: 1px solid $gray-900;
+        border-radius: 3px;
+        color: $gray-500;
+        background: $gray-900;
+
+        &[disabled] {
+            color: $gray-600;
+            background: $gray-300;
+        }
+    }
+}
